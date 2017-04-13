@@ -2,5 +2,30 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/poi-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/poi-scratchpad-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/poi-ooxml-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/poi-ooxml-schemas-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/poi-examples-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/poi-excelant-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/jsoup-1.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/maven-model-3.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/h2-1.4.194.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/plexus-utils-3.0.24.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/xmlworker-5.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/itextpdf-5.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/itextpdf-5.5.9.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/core-renderer.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/core-renderer-minimal.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/iText-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/xml-apis-xerces-2.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Work/binaries/commons-io-2.5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
